@@ -18,6 +18,7 @@
     </div>
 
     <h2 class="text-2xl font-bold mt-6 mb-6">Tidligere web events</h2>
+    
 
   </div>
 </template>
